@@ -1,0 +1,4 @@
+Group Members:Samuel Villarreal(me) , Michael Cole
+
+Incorrect Funtionality: The zero flag is usally functional but there seems to be cases where it just goes wrong. To get it to its current rate of functionality i had to invert my actual logic.
+	-Another concern is that the overflow and carryout have a even lower functionality rate , I feel like i see a correlation in like a possible delay in the flags update translating into the next 
